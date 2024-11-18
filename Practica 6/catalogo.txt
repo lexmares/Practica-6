@@ -1,0 +1,30 @@
+Linea A/2024-11-15/08:30/Mexico/Puebla/120/250.50
+Linea B/2024-11-15/09:00/Mexico/Queretaro/180/350.00
+Linea C/2024-11-16/07:45/Puebla/Mexico/130/270.00
+Linea A/2024-11-16/10:00/Queretaro/San Luis/200/400.00
+Linea B/2024-11-17/12:00/Guadalajara/Monterrey/480/950.00
+Linea C/2024-11-18/06:00/Toluca/Mexico/90/180.00
+Linea A/2024-11-18/14:30/Puebla/Tlaxcala/45/90.00
+Linea B/2024-11-18/18:00/Monterrey/Saltillo/90/120.00
+Linea C/2024-11-19/08:15/Toluca/Queretaro/210/320.00
+Linea A/2024-11-19/15:30/Mexico/Cuernavaca/90/150.00
+Linea A/2024-11-20/07:30/Mexico/Guadalajara/300/700.50
+Linea B/2024-11-20/08:00/Monterrey/Saltillo/90/120.00
+Linea C/2024-11-21/06:45/Puebla/Veracruz/200/350.00
+Linea A/2024-11-21/09:15/Cuernavaca/Mexico/100/180.00
+Linea B/2024-11-22/13:30/Guadalajara/Queretaro/240/450.00
+Linea C/2024-11-22/17:00/Monterrey/Torreon/300/650.00
+Linea A/2024-11-23/07:00/Mexico/Cancun/1440/2500.00
+Linea B/2024-11-23/15:00/Toluca/Irapuato/180/300.00
+Linea C/2024-11-24/08:45/Queretaro/San Luis/210/380.00
+Linea A/2024-11-24/16:00/Puebla/Mexico/120/220.00
+Linea B/2024-11-25/10:30/Tlaxcala/Puebla/60/80.00
+Linea C/2024-11-25/18:45/San Luis/Queretaro/210/370.00
+Linea A/2024-11-26/05:15/Mexico/Monterrey/960/1800.00
+Linea B/2024-11-26/11:00/Guadalajara/Zacatecas/270/500.00
+Linea C/2024-11-27/14:30/Toluca/Puebla/150/250.00
+Linea A/2024-11-27/17:15/Queretaro/Ciudad Juárez/1440/3200.00
+Linea B/2024-11-28/08:00/Torreon/Durango/180/300.00
+Linea C/2024-11-28/12:45/Irapuato/Toluca/240/420.00
+Linea A/2024-11-29/07:30/Mexico/Tuxtla Gutiérrez/1320/2700.00
+Linea B/2024-11-29/16:00/Saltillo/Torreon/120/200.00
